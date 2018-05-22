@@ -9,11 +9,12 @@
     "url": "git@github.com:reMarkableAS/googletest.git"
   },
   "version": {
-    "label": "1.0.4",
-    "revision": "qpm/1.0.4"
+    "label": "1.0.5",
+    "revision": "qpm/1.0.5"
   },
   "dependencies": [
   ],
   "license": "BSD_3_CLAUSE",
   "pri_filename": "com_remarkable_googletest.pri"
 }
+
