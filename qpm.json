@@ -1,0 +1,20 @@
+{
+  "name": "com.remarkable.gtest",
+  "author": {
+    "name": "Patrick Hisni Brataas",
+    "email": "technology@remarkable.com"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "git@github.com:reMarkable/gtest.git"
+  },
+  "version": {
+    "label": "1.8.1",
+    "revision": "qpm-1.8.1"
+  },
+  "dependencies": [
+  ],
+  "license": "BSD_3_CLAUSE",
+  "pri_filename": "com_remarkable_googletest.pri"
+}
+
