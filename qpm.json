@@ -9,8 +9,8 @@
     "url": "git@github.com:reMarkableAS/googletest.git"
   },
   "version": {
-    "label": "1.0.5",
-    "revision": "qpm/1.0.5"
+    "label": "1.0.6",
+    "revision": "qpm/1.0.6"
   },
   "dependencies": [
   ],
